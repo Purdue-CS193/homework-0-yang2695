@@ -21,7 +21,7 @@ Syntax highlighted code block
 - Having fun
 
 - Bulleted  
-- List test
+- List 
 
 1. Numbered
 2. List
